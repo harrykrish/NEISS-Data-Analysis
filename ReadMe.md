@@ -1,7 +1,7 @@
 
 ## NEISS Data Analysis
 
-<img src="images/NEISS.JPG" align="left">
+<img src="images/NEISS.JPG">
 
 ### Analysis 1
 
